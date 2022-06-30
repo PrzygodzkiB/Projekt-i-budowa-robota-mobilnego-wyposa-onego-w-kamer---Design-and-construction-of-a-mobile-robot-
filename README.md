@@ -68,8 +68,5 @@ zastosowania. Można uznać, że całościowy projekt sprawdził się w swoim pr
 
 ![Robot](./Pictures/caly_robot_edit.jpg)
 
-![Main board](./Pictures/płytka_główna_edit.png)
-
-
 
 Feel free to use
