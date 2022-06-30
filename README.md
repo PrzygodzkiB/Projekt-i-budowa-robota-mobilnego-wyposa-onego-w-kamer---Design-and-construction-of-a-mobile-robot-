@@ -64,7 +64,7 @@ zastosowania. Można uznać, że całościowy projekt sprawdził się w swoim pr
 
 ## Pictures
 
-![website to communicate with robot](./Pictures/website.jpg)
+![website to communicate with robot](./Pictures/website.JPG)
 
 ![Robot](./Pictures/caly_robot_edit.jpg)
 
