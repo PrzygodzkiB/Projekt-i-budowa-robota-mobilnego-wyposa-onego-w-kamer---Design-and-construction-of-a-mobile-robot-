@@ -66,7 +66,10 @@ zastosowania. Można uznać, że całościowy projekt sprawdził się w swoim pr
 
 ![website to communicate with robot](./Pictures/website.JPG)
 
+Website to communicate with robot
+
 ![Robot](./Pictures/caly_robot_edit.jpg)
 
+Robot
 
 Feel free to use
